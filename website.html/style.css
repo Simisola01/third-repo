@@ -1,0 +1,78 @@
+body{background-color: #f3EAE3;
+    
+
+}
+
+.header{
+    margin-top: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.othrcon{
+    width: 30%;
+    align-items: center;
+    background: white;
+    height: 385px;
+    width: 310px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.scent{
+    color: gray;
+    
+}
+.picture{
+
+}
+
+img{
+    height: 425px;
+    width: 350px;
+    /* margin-top: 300px; */
+    /* margin-bottom: 300px; */
+    border-radius: 10px;
+}
+
+.dollar{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+    
+button{
+    padding-left: 95px;
+    padding-right: 95px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+justify-content: center;
+    
+}
+
+svg{width: 20px;
+color: white;
+position: absolute;
+padding-left: 50px;
+align-items: center;
+padding-bottom: 20px;
+
+}
+.remote{
+    display: flex;
+    
+
+    
+}
+.remote >svg{
+    justify-content: center;
+    padding-top: 6px;
+    padding-right: 15px;
+}
